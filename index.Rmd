@@ -6,7 +6,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+!["Toxoplasma cyst and tachyzoites in cells"](images/Toxo cyst and tachyzoites.png)
 
 
 ## About Me
@@ -21,6 +21,9 @@ I am a research associate at Sick Kids’ Centre for Advanced Single Cell Analys
 * Cats
 * Cooking
 * Gardening
+
+!["rhapsody example image beads and cells"](images/rhapsody example image beads and cells 20210831.jpeg)
+
 
 ## Profiles
 
