@@ -1,18 +1,25 @@
 ---
 title: "deeqa's website"
 output: html_document
+theme: spacelab
+toc: true
+toc_depth: 3
+toc_float: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-!["Toxoplasma cyst and tachyzoites in cells"](images/Toxo cyst and tachyzoites.png)
+!["Holding my breath while aliquoting DTT at K-RITH, 2015"](images/pipetting-side-pic.jpg)
+
+
 
 
 ## About Me
 
 I am a research associate at Sick Kids’ Centre for Advanced Single Cell Analysis. I perform and analyze mass cytometry experiments and manages the Core’s single-cell RNA-sequencing service. I got my PhD in Immunology from Cornell University and BSc in Microbiology and Immunology from The University of Western Ontario.
 
+!["Toxoplasma cyst and tachyzoites in cells"](images/Toxo cyst and tachyzoites.png)
 
 ## Interests
 * Single cell data analysis
