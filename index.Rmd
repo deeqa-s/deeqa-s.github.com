@@ -1,5 +1,5 @@
 ---
-title: "deeqa's website"
+title: "Deeqa Shire"
 output: html_document
 theme: spacelab
 toc: true
@@ -15,11 +15,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-## About Me
+## About
 
 I am a research associate at Sick Kids’ Centre for Advanced Single Cell Analysis. I perform and analyze mass cytometry experiments and manages the Core’s single-cell RNA-sequencing service. I got my PhD in Immunology from Cornell University and BSc in Microbiology and Immunology from The University of Western Ontario.
-
-!["Toxoplasma cyst and tachyzoites in cells"](images/Toxo cyst and tachyzoites.png)
 
 ## Interests
 * Single cell data analysis
@@ -29,14 +27,22 @@ I am a research associate at Sick Kids’ Centre for Advanced Single Cell Analys
 * Cooking
 * Gardening
 
+
+## Projects
+!["Toxoplasma cyst and tachyzoites in cells"](images/Toxo cyst and tachyzoites.png)
+
+
+
 !["rhapsody example image beads and cells"](images/rhapsody example image beads and cells 20210831.jpeg)
 
 
 ## Profiles
 
 * [LinkedIn](https://www.linkedin.com/in/deeqa-mahamed/)
+* [Twitter](https://twitter.com/shire_deeqa)
 
 
 ## Contact
 
-Email: deeqa.shire at gmail.com
+* Email: deeqa.shire at gmail.com
+* [Twitter](https://twitter.com/shire_deeqa)
